@@ -21,7 +21,7 @@ python def greet(name): return f"Hello, {name}!"
 - [x] Add an H1 header
 - [x] Insert an image
 - [x] Include a code example
-- [ ] Add a task list (you’re doing this now!)
+- [ ] Add a task list
 
 
 
